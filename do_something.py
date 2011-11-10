@@ -1,6 +1,8 @@
 #
 # The file just prints some information.
 #
+# Author: abierbaum
+#
 
 
 print "Doing something"
