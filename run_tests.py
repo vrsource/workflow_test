@@ -10,6 +10,9 @@ class TestStuff(unittest.TestCase):
         var = 5 + 5
         assert var == 10
         
+    def test_test1(self):
+        assert 1 == 1
+        
 
 if __name__ == '__main__':
     unittest.main()
