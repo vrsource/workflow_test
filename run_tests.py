@@ -11,7 +11,8 @@ class TestStuff(unittest.TestCase):
         assert var == 10
         
     def test_test1(self):
-        assert 1 == 1
+        assert (1 == 1)
+        
         
 
 if __name__ == '__main__':
