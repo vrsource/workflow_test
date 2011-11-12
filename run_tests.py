@@ -20,6 +20,10 @@ class TestOtherStuff(unittest.TestCase):
     def test2(self):
         assert 3 == 3
 
+    def test3(self):
+        assert 4 == 4
+
+
 if __name__ == '__main__':
     print "Starting test suite"
     unittest.main()
